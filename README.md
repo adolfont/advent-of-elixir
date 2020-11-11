@@ -1,6 +1,6 @@
 # Advent of Elixir
 
-The idea is to create an advent calendar filled with content created by the Elixir community. Inspired by [Advent of Haskell](https://adventofhaskell.com/).
+The idea is to create an advent calendar filled with content created by the Elixir community. Inspired by [Advent of Haskell](https://archive.is/ZvFnP).
 
 It seems to be too late for 2020, but maybe this will work in 2021.
 
